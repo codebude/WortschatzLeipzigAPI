@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WortschatzLeipzigAPI", "WortschatzLeipzigAPI\WortschatzLeipzigAPI.csproj", "{438A4C36-49F1-4119-A316-BBF80984900C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThesaurusTest", "ThesaurusTest\ThesaurusTest.csproj", "{E8A7EBDB-3724-4858-84F1-02705F9E6566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{438A4C36-49F1-4119-A316-BBF80984900C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438A4C36-49F1-4119-A316-BBF80984900C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438A4C36-49F1-4119-A316-BBF80984900C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438A4C36-49F1-4119-A316-BBF80984900C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8A7EBDB-3724-4858-84F1-02705F9E6566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A7EBDB-3724-4858-84F1-02705F9E6566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A7EBDB-3724-4858-84F1-02705F9E6566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A7EBDB-3724-4858-84F1-02705F9E6566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
